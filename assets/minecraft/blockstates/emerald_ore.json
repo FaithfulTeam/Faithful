@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "emerald_ore" },
+            { "model": "emerald_ore/0" },
+            { "model": "emerald_ore/1" },
+            { "model": "emerald_ore/2" },
+            { "model": "emerald_ore/3" }
+        ]
+    }
+}

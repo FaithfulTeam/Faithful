@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "diamond_ore" },
+            { "model": "diamond_ore/0" },
+            { "model": "diamond_ore/1" },
+            { "model": "diamond_ore/2" },
+            { "model": "diamond_ore/3" }
+        ]
+    }
+}
