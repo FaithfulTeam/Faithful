@@ -1,0 +1,16 @@
+Black - #1d1d21
+Red - #b32f27
+Green - #5f7e16
+Brown - #855533
+Blue - #3d45ad
+Purple - #8b33bb
+Cyan - #169e9e
+Light Gray - #9f9f99
+Gray - #485053
+Pink - #f78dad
+Lime - #82ca1f
+Yellow - #fcdb3e
+Light Blue - #3bb6dd
+Magenta - #ca4fc0
+Orange - #fc821d
+White - #ffffff
