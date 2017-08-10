@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "dark_oak_planks" },
+            { "model": "dark_oak_planks/0" },
+            { "model": "dark_oak_planks/1" },
+            { "model": "dark_oak_planks/2" }
+        ]
+    }
+}

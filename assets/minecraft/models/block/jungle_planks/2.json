@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "ctm/planks_jungle/2"
+    }
+}
