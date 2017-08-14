@@ -3,6 +3,6 @@
         "normal": [ { "model": "slime" },
 			{ "model": "slime", "y": 90 },
 			{ "model": "slime", "y": 180 },
-			{ "model": "slime",	"y": 270 } ]
+			{ "model": "slime", "y": 270 } ]
     }
 }
