@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "half=bottom": [
+			{ "model": "half_slab_spruce" },
+			{ "model": "spruce_slab/bottom/0" },
+			{ "model": "spruce_slab/bottom/1" },
+			{ "model": "spruce_slab/bottom/2" }
+		],
+        "half=top": [
+			{ "model": "upper_slab_spruce" },
+			{ "model": "spruce_slab/top/0" },
+			{ "model": "spruce_slab/top/1" },
+			{ "model": "spruce_slab/top/2" }
+		]
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "textures": {
+        "particle": "ctm/brewing_stand/9",
+        "stand": "ctm/brewing_stand/9"
+    },
+    "elements": [
+        {   "from": [ 8, 0, 8 ],
+            "to": [ 16, 16, 8 ],
+            "faces": {
+                "north": { "uv": [ 0, 0, 8, 16 ], "texture": "#stand" },
+                "south": { "uv": [ 8, 0, 0, 16 ], "texture": "#stand" }
+            }
+        }
+    ]
+}

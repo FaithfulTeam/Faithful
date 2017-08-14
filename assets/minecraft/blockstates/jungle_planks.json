@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "jungle_planks" },
+            { "model": "jungle_planks/0" },
+            { "model": "jungle_planks/1" },
+            { "model": "jungle_planks/2" }
+        ]
+    }
+}
