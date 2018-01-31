@@ -1,6 +1,0 @@
-{
-    "parent": "block/cross",
-    "textures": {
-        "cross": "ctm/flower_blue_orchid/1"
-    }
-}

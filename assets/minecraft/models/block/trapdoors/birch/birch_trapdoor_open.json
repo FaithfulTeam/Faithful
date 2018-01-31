@@ -1,9 +1,0 @@
-{
-    "parent": "block/trapdoors/template_trapdoor_open",
-    "textures": {
-        "top": "blocks/birch_trapdoor",
-		"bottom": "blocks/birch_trapdoor",
-		"front": "ctm/trapdoors/birch/front",
-		"side": "ctm/trapdoors/birch/side"
-    }
-}
