@@ -1,0 +1,9 @@
+{
+    "parent": "block/trapdoors/template_trapdoor_open",
+    "textures": {
+        "top": "block/jungle_trapdoor",
+		"bottom": "block/jungle_trapdoor",
+		"front": "ctm/trapdoors/jungle/front",
+		"side": "ctm/trapdoors/jungle/side"
+    }
+}
