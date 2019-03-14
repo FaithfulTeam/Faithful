@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "ctm/nether_quartz_ore/0"
+    }
+}

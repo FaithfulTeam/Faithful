@@ -1,9 +1,0 @@
-{
-    "variants": {
-		"": [
-            { "model": "block/potted_allium" },
-            { "model": "block/potted_allium/0" },
-            { "model": "block/potted_allium/1" }
-        ]
-    }
-}
