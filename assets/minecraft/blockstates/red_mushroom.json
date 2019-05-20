@@ -1,10 +1,14 @@
 {
     "variants": {
         "": [
-            { "model": "block/red_mushroom" },
-            { "model": "block/red_mushroom/0" },
-            { "model": "block/red_mushroom/1" },
-            { "model": "block/red_mushroom/2" }
+            { "model": "block/red_mushroom", "weight": 4 },
+            { "model": "block/red_mushroom/0", "weight": 4 },
+            { "model": "block/red_mushroom/1", "weight": 1 },
+            { "model": "block/red_mushroom/2", "weight": 4 },
+            { "model": "block/red_mushroom/3", "weight": 3 },
+            { "model": "block/red_mushroom/4", "weight": 1 },
+            { "model": "block/red_mushroom/5", "weight": 3 },
+            { "model": "block/red_mushroom/6", "weight": 1 }
         ]
     }
 }
