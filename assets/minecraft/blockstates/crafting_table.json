@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/crafting_table" },
+            { "model": "block/crafting_table/0" },
+            { "model": "block/crafting_table/1" },
+            { "model": "block/crafting_table/2" },
+            { "model": "block/crafting_table/3" }
+        ]
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/poppy" },
+            { "model": "block/poppy/0" }
+        ]
+    }
+}
