@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "pumpkin/0" },
+        "facing=south": { "model": "pumpkin/0", "y": 180 },
+        "facing=west":  { "model": "pumpkin/0", "y": 270 },
+        "facing=east":  { "model": "pumpkin/0", "y": 90 }
+    }
+}
