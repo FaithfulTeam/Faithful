@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "ctm/flower_oxeye_daisy/0"
+    }
+}

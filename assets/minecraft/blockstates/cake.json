@@ -1,0 +1,46 @@
+{
+    "variants": {
+        "bites=0": [
+            { "model": "cake_uneaten" },
+            { "model": "cake_uneaten/0" },
+            { "model": "cake_uneaten/1" },
+            { "model": "cake_uneaten/2" }
+        ],
+        "bites=1": [
+            { "model": "cake_slice1" },
+            { "model": "cake_slice1/0" },
+            { "model": "cake_slice1/1" },
+            { "model": "cake_slice1/2" }
+        ],
+        "bites=2": [
+            { "model": "cake_slice2" },
+            { "model": "cake_slice2/0" },
+            { "model": "cake_slice2/1" },
+            { "model": "cake_slice2/2" }
+        ],
+        "bites=3": [
+            { "model": "cake_slice3" },
+            { "model": "cake_slice3/0" },
+            { "model": "cake_slice3/1" },
+            { "model": "cake_slice3/2" }
+        ],
+        "bites=4": [
+            { "model": "cake_slice4" },
+            { "model": "cake_slice4/0" },
+            { "model": "cake_slice4/1" },
+            { "model": "cake_slice4/2" }
+        ],
+        "bites=5": [
+            { "model": "cake_slice5" },
+            { "model": "cake_slice5/0" },
+            { "model": "cake_slice5/1" },
+            { "model": "cake_slice5/2" }
+        ],
+        "bites=6": [
+            { "model": "cake_slice6" },
+            { "model": "cake_slice6/0" },
+            { "model": "cake_slice6/1" },
+            { "model": "cake_slice6/2" }
+        ]
+    }
+}

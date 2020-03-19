@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "houstonia" },
+            { "model": "houstonia/0" }
+        ]
+    }
+}
