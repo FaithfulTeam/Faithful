@@ -1,6 +1,0 @@
-{
-    "parent": "block/cross",
-    "textures": {
-        "cross": "ctm/brown_mushroom/0"
-    }
-}

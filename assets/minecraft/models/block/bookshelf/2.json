@@ -2,6 +2,6 @@
     "parent": "block/cube_column",
     "textures": {
         "end": "block/oak_planks",
-        "side": "ctm/bookshelf/2"
+        "side": "custom/block/bookshelf/2"
     }
 }
