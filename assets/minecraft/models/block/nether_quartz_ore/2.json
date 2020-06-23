@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "ctm/nether_quartz_ore/2"
+        "all": "custom/block/nether_quartz_ore/2"
     }
 }
