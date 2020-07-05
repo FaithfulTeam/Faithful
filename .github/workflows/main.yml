@@ -13,3 +13,9 @@ jobs:
         with:
           files: assets/ pack.mcmeta pack.png
           dest: release.zip
+      - name: Send file README.md to discord channel
+        uses: sinshutu/upload-to-discord@master
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        with:
+          args: release.zip
