@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@master
     - name: Archive Release
-      uses: thedoctor0/zip-release@master
+      uses: FaithfulTeam/Faithful@master
       with:
         filename: 'release.zip'
-        exclusions: '*.git* .gitignore'
+        exclusions: '*.git* *.github* .gitignore'
