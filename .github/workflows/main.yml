@@ -8,9 +8,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - name: Archive Release
-      uses: thedoctor0/zip-release@master
-      with:
-        filename: 'release.zip'
-        exclusions: '*.git* *.github* .gitignore'
+      - uses: actions/checkout@v2
+      - uses: papeloto/action-zip@v1
+        with:
+          files: assets/ pack.mcmeta pack.png
+          dest: release.zip
