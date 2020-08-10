@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/warped_fungus", "weight": 4 },
+            { "model": "block/mushrooms/warped/0", "weight": 4 },
+            { "model": "block/mushrooms/warped/1", "weight": 1 },
+            { "model": "block/mushrooms/warped/2", "weight": 4 },
+            { "model": "block/mushrooms/warped/3", "weight": 3 },
+            { "model": "block/mushrooms/warped/4", "weight": 1 },
+            { "model": "block/mushrooms/warped/5", "weight": 3 },
+            { "model": "block/mushrooms/warped/6", "weight": 1 }
+        ]
+    }
+}

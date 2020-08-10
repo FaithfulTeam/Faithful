@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/crimson_fungus", "weight": 4 },
+            { "model": "block/mushrooms/crimson/0", "weight": 4 },
+            { "model": "block/mushrooms/crimson/1", "weight": 1 },
+            { "model": "block/mushrooms/crimson/2", "weight": 4 },
+            { "model": "block/mushrooms/crimson/3", "weight": 3 },
+            { "model": "block/mushrooms/crimson/4", "weight": 1 },
+            { "model": "block/mushrooms/crimson/5", "weight": 3 },
+            { "model": "block/mushrooms/crimson/6", "weight": 1 }
+        ]
+    }
+}
