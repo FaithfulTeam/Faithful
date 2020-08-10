@@ -1,4 +1,4 @@
-crimson{
+{
     "parent": "block/cross",
     "textures": {
         "cross": "custom/block/mushrooms/crimson/5"
