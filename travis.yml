@@ -1,0 +1,29 @@
+# Настройки
+language: python
+sudo: false
+
+# Собирать на ветке 'travis'
+branches:
+  only:
+    - travis
+
+# Установка
+install:
+  - pip install requests
+
+# Скрипты
+script:
+  - python3 build.py
+
+# Деплой
+deploy:
+  provider: pages
+  github-token: $GITHUB_TOKEN
+  committer-from-gh: true
+  skip-cleanup: true
+  keep-history: true
+  local-dir: releases
+  repo: FaithfulTeam/Faithful
+  target-branch: master
+  on:
+    branch: travis
