@@ -1,9 +1,0 @@
-{
-    "parent": "block/trapdoors/template_bottom",
-    "textures": {
-        "top": "block/jungle_trapdoor",
-		"bottom": "block/jungle_trapdoor",
-		"front": "custom/block/trapdoors/jungle/front",
-		"side": "custom/block/trapdoors/jungle/side"
-    }
-}
