@@ -22,8 +22,8 @@ deploy:
   committer-from-gh: true
   skip-cleanup: true
   keep-history: true
-  local-dir: releases
+  local-dir: deploy
   repo: FaithfulTeam/Faithful
-  target-branch: master
+  target-branch: releases
   on:
     branch: travis
