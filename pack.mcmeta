@@ -1,6 +1,30 @@
 {
   "pack": {
     "pack_format": 7,
-    "description": "§bWebsite §8> §chttps://faithful.team\n§bAuthor §8> §exMrVizzy"
+    "description": {
+      "text": "Website",
+      "color": "aqua",
+      "extra": [
+        {
+          "text": " > ",
+          "color": "dark_gray"
+        },
+        {
+          "text": "https://faithful.team",
+          "color": "red"
+        },
+        {
+          "text": "\nAuthor"
+        },
+        {
+          "text": " > ",
+          "color": "dark_gray"
+        },
+        {
+          "text": "xMrVizzy",
+          "color": "yellow"
+        }
+      ]
+    }
   }
 }
